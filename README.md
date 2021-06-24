@@ -6,7 +6,7 @@ REST-API I2CAT v2 fetches specific resources from [Stack Exchange API](stackexch
 
 # Installation
 ## Prerequisites and first try.
-This API is based on python and can be run on Linux or Windows.
+This API is based on python (sourcecode/server.py) and can be run on Linux or Windows.
 
 The API uses [Flask](https://flask.palletsprojects.com/en/2.0.x/quickstart/) server and [requests](https://docs.python-requests.org/en/master/) library to work properly (requirements).
 
